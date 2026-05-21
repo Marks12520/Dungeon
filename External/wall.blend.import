@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bf2pndy6ryu3b"
-path="res://.godot/imported/floor.blend-4fa805851de59c0235c9b772d1d28e66.scn"
+uid="uid://bel21ew7ij7rg"
+path="res://.godot/imported/wall.blend-458cf5f33e3c8a5383056a3cfbf10989.scn"
 
 [deps]
 
-source_file="res://External/floor.blend"
-dest_files=["res://.godot/imported/floor.blend-4fa805851de59c0235c9b772d1d28e66.scn"]
+source_file="res://External/wall.blend"
+dest_files=["res://.godot/imported/wall.blend-458cf5f33e3c8a5383056a3cfbf10989.scn"]
 
 [params]
 
@@ -38,7 +38,7 @@ materials/extract=0
 materials/extract_format=0
 materials/extract_path=""
 _subresources={}
-blender/nodes/visible=0
+blender/nodes/visible=1
 blender/nodes/active_collection_only=false
 blender/nodes/punctual_lights=true
 blender/nodes/cameras=true
